@@ -1,0 +1,4 @@
+google-adk
+py-trello
+datetime
+dotenv
